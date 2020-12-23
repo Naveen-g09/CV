@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(252, 220, 183);
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: left;
+h3{
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+hr{
+    background-color: black;
+    size: 50% 0 0 0;
+
+}
